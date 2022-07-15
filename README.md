@@ -1,7 +1,8 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Naveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-ms-1902322/)](https://www.linkedin.com/in/naveen-ms-190232232)
-[![Website Badge](https://img.shields.io/badge/WebSite-Naveen-green)](https://naveenms45.github.io/MyProfile/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Naveen-green)](https://naveensampath2907.wixsite.com/imms) 
+
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Naveen-yellow)](https://stackoverflow.com/users/18252678/naveen-ms)
 
 I'm
