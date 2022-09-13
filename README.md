@@ -5,8 +5,8 @@
 
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Naveen-yellow)](https://stackoverflow.com/users/18252678/naveen-ms)
 
-I'm
-Full Stack Dveloper
+I'm a
+Full Stack Dveloper. 
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive), Server Administrator(AWS),database(MongoDB,Mysql),
 
 
