@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Naveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-ms-1902322/)](https://www.linkedin.com/in/naveen-ms-190232232)
+[![Linkedin Badge](https://img.shields.io/badge/-Naveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imms45/)](https://www.linkedin.com/in/naveen-ms-190232232)
 [![Website Badge](https://img.shields.io/badge/WebSite-Naveen-green)](https://naveenms45.github.io/Portfolio) 
 
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Naveen-yellow)](https://stackoverflow.com/users/18252678/naveen-ms)
